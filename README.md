@@ -22,7 +22,7 @@ Has this Project helped you learn something new? or helped you at work? Do Consi
 <a href="https://www.buymeacoffee.com/sahan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200"  ></a>
 
 ## Share it!
-Please share this Repository within your developer community, if you think that this would a difference! Cheers.
+Please share this Repository within your developer community, if you think that this would make a difference! Cheers.
 
 ## About the Author
 ### Sahan Serasinghe
